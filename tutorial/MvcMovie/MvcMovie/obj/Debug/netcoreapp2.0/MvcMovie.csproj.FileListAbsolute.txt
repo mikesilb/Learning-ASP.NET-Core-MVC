@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/tutorial/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
