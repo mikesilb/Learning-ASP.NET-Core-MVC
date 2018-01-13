@@ -11,7 +11,7 @@ using System;
 namespace MvcMovie.Migrations
 {
     [DbContext(typeof(MvcMovieContext))]
-    [Migration("20180112005805_InitialCreate")]
+    [Migration("20180113210300_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,6 +28,8 @@ namespace MvcMovie.Migrations
                     b.Property<string>("Genre");
 
                     b.Property<decimal>("Price");
+
+                    b.Property<string>("Rating");
 
                     b.Property<DateTime>("ReleaseDate");
 
