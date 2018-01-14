@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A6E04DDA-87AC-4835-A86A-44BCFD0B589E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Controllers/MoviesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Models/ErrorViewModel.cs">
     <Files>
       <File FileName="MvcMovie/Controllers/HelloWorldController.cs" Line="1" Column="1" />
       <File FileName="MvcMovie/Startup.cs" Line="30" Column="59" />
@@ -24,6 +24,7 @@
       <File FileName="MvcMovie/Views/Movies/Details.cshtml" Line="41" Column="51" />
       <File FileName="MvcMovie/Views/Movies/Delete.cshtml" Line="42" Column="51" />
       <File FileName="MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="MvcMovie/Models/ErrorViewModel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
