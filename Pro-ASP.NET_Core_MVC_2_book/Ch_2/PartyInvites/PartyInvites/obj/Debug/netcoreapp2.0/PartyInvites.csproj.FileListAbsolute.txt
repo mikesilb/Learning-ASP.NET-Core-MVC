@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.deps.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.runtimeconfig.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.runtimeconfig.dev.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.AssemblyInfo.cs
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_2/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.pdb
