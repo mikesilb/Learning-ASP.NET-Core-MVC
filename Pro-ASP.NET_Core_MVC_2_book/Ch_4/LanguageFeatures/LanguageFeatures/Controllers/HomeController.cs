@@ -10,20 +10,25 @@ namespace LanguageFeatures.Controllers
     {
         public ViewResult Index()
         {
-            List<string> results = new List<string>();
+            Dictionary<string, Product> products = new Dictionary<string, Product> {
+                 ["Kayak"] = new Product { Name = "Kayak", Price = 275M },
+                 ["Lifejacket"] = new Product { Name = "Lifejacket", Price = 48.95M }
+            };
 
-            foreach (Product p in Product.GetProducts())
-            {
-                string name = p?.Name ?? "<No Name>";
-                decimal? price = p?.Price ?? 0;
-                string relatedName = p?.Related?.Name ?? "<None>";
-                string category = p?.Category ?? "<None>";
-                bool? instock = p?.InStock ?? false;
+            //List<string> results = new List<string>();
+            //
+            //foreach (Product p in Product.GetProducts())
+            //{
+            //    string name = p?.Name ?? "<No Name>";
+            //    decimal? price = p?.Price ?? 0;
+            //    string relatedName = p?.Related?.Name ?? "<None>";
+            //    string category = p?.Category ?? "<None>";
+            //    bool? instock = p?.InStock ?? false;
+            //
+            //    results.Add(string.Format($"Name: {name}, Price: {price}, Related: {relatedName}, Category: {category}, InStock: {instock}"));
 
-                results.Add(string.Format("Name: {0}, Price: {1}, Related: {2}, Category: {3}, InStock: {4}", name, price, relatedName, category, instock));
-            }
 
-            return View(results);
+            return View("Index", products.Keys);
         }
     }
 }
