@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/bin/Debug/netcoreapp2.0/LanguageFeatures.deps.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/bin/Debug/netcoreapp2.0/LanguageFeatures.runtimeconfig.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/bin/Debug/netcoreapp2.0/LanguageFeatures.runtimeconfig.dev.json
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/bin/Debug/netcoreapp2.0/LanguageFeatures.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/bin/Debug/netcoreapp2.0/LanguageFeatures.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.AssemblyInfo.cs
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/Learning_ASP.NET-Core-MVC/Pro-ASP.NET_Core_MVC_2_book/Ch_4/LanguageFeatures/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.pdb
