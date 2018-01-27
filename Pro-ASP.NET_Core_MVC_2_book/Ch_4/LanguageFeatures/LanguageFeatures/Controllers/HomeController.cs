@@ -10,23 +10,22 @@ namespace LanguageFeatures.Controllers
     {
         public ViewResult Index()
         {
-            object[] data = new object[] { 275M, 29.95M, "apple", "orange", 100, 10};
-            decimal total = 0;
+            ShoppingCart cart = new ShoppingCart { Products = Product.GetProducts() };
 
-            for (int i = 0; i < data.Length; i++)
-            {
-                switch (data[i])
-                {
-                    case decimal decimalValue:
-                        total += decimalValue;
-                        break;
-                    case int intValue when intValue > 50:
-                        total += intValue;
-                        break;
-                }
-            }
+            Product[] productArray = {
+                new Product { Name = "Kayak", Price = 275M},
+                new Product { Name = "Lifejacket", Price = 48.95M},
+                new Product { Name = "Soccer ball", Price = 19.50M},
+                new Product { Name = "Corner flag", Price = 34.95M}
+            };
 
-            return View("Index", new string[] {$"Total: {total:C2}"});
+
+
+            decimal cartTotal = cart.TotalPrices();
+            decimal arrayTotal = productArray.TotalPrices();
+            decimal filteredArrayTotal = productArray.FilterByPrice(35).TotalPrices();
+
+            return View("Index", new string[] {$"Cart Total: {cartTotal:C2}, Filtered Array Total: {filteredArrayTotal:C2}, Array Total: {arrayTotal:C2}"});
         }
     }
 }
