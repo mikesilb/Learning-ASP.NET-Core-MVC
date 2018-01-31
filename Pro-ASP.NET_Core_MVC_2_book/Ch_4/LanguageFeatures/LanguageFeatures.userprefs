@@ -3,7 +3,6 @@
     <Files>
       <File FileName="LanguageFeatures/Startup.cs" Line="34" Column="2" />
       <File FileName="LanguageFeatures/Models/Product.cs" Line="18" Column="9" />
-      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="13" Column="9" />
       <File FileName="LanguageFeatures/Views/Home/Index.cshtml" Line="1" Column="1" />
       <File FileName="LanguageFeatures/Pages/_Layout.cshtml" Line="1" Column="1" />
       <File FileName="LanguageFeatures/Pages/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
@@ -11,6 +10,8 @@
       <File FileName="LanguageFeatures/Program.cs" Line="17" Column="1" />
       <File FileName="LanguageFeatures/Models/ShoppingCart.cs" Line="1" Column="1" />
       <File FileName="LanguageFeatures/Models/MyExtensionMethods.cs" Line="33" Column="39" />
+      <File FileName="LanguageFeatures/Models/MyAsyncMethods.cs" Line="16" Column="2" />
+      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="21" Column="62" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.LanguageFeatures PreferredExecutionTarget="MonoDevelop.Default" />
