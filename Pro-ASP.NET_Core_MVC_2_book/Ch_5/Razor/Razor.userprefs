@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{84594BE7-23B7-4F11-AEEB-EB2AC56325FD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Razor/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Razor/Views/_ViewStart.cshtml">
     <Files>
-      <File FileName="Razor/Startup.cs" Line="26" Column="40" />
-      <File FileName="Razor/Models/Product.cs" Line="11" Column="6" />
-      <File FileName="Razor/Controllers/HomeController.cs" Line="6" Column="20" />
-      <File FileName="Razor/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Razor/Startup.cs" Line="1" Column="1" />
+      <File FileName="Razor/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="Razor/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Razor/Views/Home/Index.cshtml" Line="3" Column="14" />
+      <File FileName="Razor/Views/_ViewImports.cshtml" Line="1" Column="19" />
+      <File FileName="Razor/Views/Shared/_BasicLayout.cshtml" Line="16" Column="31" />
+      <File FileName="Razor/Views/_ViewStart.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
