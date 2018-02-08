@@ -12,6 +12,6 @@ namespace WorkingWithVisualStudio.Controllers
     public class HomeController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index() => View(SimpleRepository.SharedRepository.Products);  
+        public IActionResult Index() => View(SimpleRepository.SharedRepository.Products.Where(p => p?.Price < 50));  
     }
 }
